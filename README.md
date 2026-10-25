@@ -3,7 +3,7 @@
 
 Second-year B.Tech CSE student specializing in modern front-end web development. I focus on crafting pixel-perfect, responsive, and high-performance user interfaces using Next.js, TypeScript, Tailwind CSS, and Framer Motion. While my core expertise lies in building interactive web experiences and PWAs, I also develop scalable Python Telegram bots.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.ceimran.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://ceimran.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-porfolio.ceimran.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio.ceimran.in)
 [![Email](https://img.shields.io/badge/Email-mail%40ceimran.in-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@ceimran.in)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-@NaatKhwanERasool__bot-000000?style=flat-square&logo=telegram&logoColor=white)](https://t.me/NaatKhwanERasool_bot)
 [![Instagram](https://img.shields.io/badge/Instagram-%40editonwheels-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/editonwheels)

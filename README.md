@@ -49,7 +49,7 @@ Second-year B.Tech CSE student (Class of 2029) specializing in full-stack web ap
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-111111?style=flat-square&logo=davinciresolve&logoColor=white)
+
 
 ---
 

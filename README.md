@@ -1,7 +1,7 @@
 # Md Imran Ahmad
-### Full-Stack Developer & Python Backend Engineer
+### Front-End Developer & UI Engineer
 
-Second-year B.Tech CSE student (Class of 2029) specializing in full-stack web applications, Progressive Web Apps (PWAs), and high-concurrency Python backend architectures. Strong foundation in system design, asynchronous task processing, and hardware logic.
+Second-year B.Tech CSE student specializing in modern front-end web development. I focus on crafting pixel-perfect, responsive, and high-performance user interfaces using Next.js, TypeScript, Tailwind CSS, and Framer Motion. While my core expertise lies in building interactive web experiences and PWAs, I also develop scalable Python Telegram bots.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ceimran.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://ceimran.in)
 [![Email](https://img.shields.io/badge/Email-mail%40ceimran.in-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@ceimran.in)
@@ -10,33 +10,25 @@ Second-year B.Tech CSE student (Class of 2029) specializing in full-stack web ap
 
 ---
 
-### Featured Systems & Architectures
+### Featured Projects
 
-* **[Mehfil-e-Naat Bot & Web Platform](https://bot.ceimran.in)** (`@NaatKhwanERasool_bot`)  
+- **Unique Pixel – Creative Agency Landing Page**  
+  Developed an Awwwards-style, interactive creative studio landing page using Next.js, TypeScript, Tailwind CSS, and Framer Motion. Features include a floating glassmorphism navbar, cinematic showreel modals, and scroll-driven animated Bento grids.
+
+- **[Zikr & Fikr – Digital Sanctuary PWA](https://zikr-and-fikr.vercel.app/)**  
+  Engineered a custom Progressive Web Application focusing on seamless UI/UX, multi-lingual RTL/LTR typography, offline-first capabilities, and cross-platform responsive design.
+
+- **[Mehfil-e-Naat Bot & Web Platform](https://bot.ceimran.in)** (`@NaatKhwanERasool_bot`)  
   Architected an asynchronous Python Telegram bot and Flask web engine featuring real-time audio auditions, live leaderboards, SQLite WAL atomic concurrency, and passwordless Telegram OTP security.
-
-* **[Zikr & Fikr – Digital Sanctuary PWA](https://zikr-and-fikr.vercel.app/)**  
-  Engineered a custom Progressive Web Application with cross-platform push notifications, an offline-first tracker, multi-lingual RTL/LTR typography, and a bespoke Headless CMS hardened against XSS and malicious media uploads.
-
-* **[Automated Factory Logistics](https://www.ceimran.in/factory-logistics/)**  
-  Designed a zero-code, pure analog line-following robot utilizing physical logic gates, IR sensors, and 5V relays to drive motor control systems.
 
 ---
 
 ### Technical Stack
 
-**Backend & Systems**  
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-111111?style=flat-square)
-![Clerk](https://img.shields.io/badge/Clerk_Auth-111111?style=flat-square&logo=clerk&logoColor=white)
-
-**Frontend & Web**  
+**Frontend & UI**  
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=flat-square&logo=framer&logoColor=white)
@@ -44,12 +36,16 @@ Second-year B.Tech CSE student (Class of 2029) specializing in full-stack web ap
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white)
 
+**Bot & Backend Integration**  
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk_Auth-111111?style=flat-square&logo=clerk&logoColor=white)
+
 **Core & Tools**  
 ![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white)
-
 
 ---
 
